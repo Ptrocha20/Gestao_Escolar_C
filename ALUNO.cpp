@@ -2,7 +2,7 @@
 #include <iostream>
 #include <iomanip>
 
-// Construtor
+
 Aluno::Aluno(std::string nome, int numero, float nota1, float nota2)
     : nome(nome), numero(numero), nota1(nota1), nota2(nota2) {
 }
